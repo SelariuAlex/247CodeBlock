@@ -33,6 +33,12 @@ to contribute Just add your links here
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
+- [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+- [Fredrik Christenson](https://www.youtube.com/channel/UC0BAd8tPlDqFvDYBemHcQPQ)
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [techsith](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg)
+
 
 ## Best Instructor Websites
 
@@ -62,6 +68,7 @@ to contribute Just add your links here
 - [Learn React by Building Real Projects](https://www.udemy.com/learn-react-by-building-a-real-projects/) - Joe Santos
 - [React Front To Back](https://www.udemy.com/react-front-to-back/) - Brad Traversy
 - [JavaScript Course - Build Real World Applications](https://www.udemy.com/the-ultimate-javascript-course-build-real-world-apps2018/)
+- [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) - Anthony Alicea
 
 ### PHP
 
